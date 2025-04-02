@@ -1,0 +1,17 @@
+top:
+- example_function
+funcList:
+- example_function
+loopConfig:
+- group1:
+    level: 1
+    unroll: 'off'
+    pipeline: 'off'
+    flatten: 'off'
+- group2:
+    level: 2
+    unroll: 'off'
+    pipeline: 'off'
+    flatten: 'off'
+arrList: []
+interList: []
